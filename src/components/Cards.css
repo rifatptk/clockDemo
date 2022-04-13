@@ -1,0 +1,16 @@
+.cards-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* gap: 1rem; */
+}
+.card{    
+    margin: 30px 20px;
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+    transition: transform 300ms ease;
+}
+.card:hover{
+  transform: scale(1.1);
+}

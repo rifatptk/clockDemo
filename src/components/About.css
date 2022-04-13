@@ -1,0 +1,11 @@
+.about-parent{
+    margin-top: 100px;
+    border-radius: 0 200px 0 0;
+    /* background-color: rgb(12, 12, 12); */
+}
+.about-child{
+    /* background-color: rgb(27, 27, 27); */
+    margin-top: 6rem;
+    padding: 5rem;
+    border-radius: 0 150px 0 0;
+}

@@ -1,0 +1,18 @@
+.shapeBg{
+    background-color: rgb(8, 8, 8);
+}
+.shapeBg-card:nth-child(1){
+    background-color: rgb(44, 44, 44);
+}
+.shapeBg-card:nth-child(2){
+    background-color: rgb(24, 24, 24);
+}
+.shapeBg-card:nth-child(3){
+    background-color: rgb(0, 0, 0);
+}
+.shapeBg-card{
+    transition: transform 200ms ease;
+}
+.shapeBg-card:hover{
+    transform: scale(1.1);
+}
